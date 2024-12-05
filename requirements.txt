@@ -1,10 +1,14 @@
 certifi==2024.8.30
 charset-normalizer==3.4.0
 colorama==0.4.6
+gensim==4.3.2
 idna==3.10
 kagglehub==0.3.3
+matplotlib==3.8.2
+numpy==1.26.4
 packaging==24.1
 pygame==2.6.1
 requests==2.32.3
+scikit-learn==1.4.1.post1
 tqdm==4.66.6
 urllib3==2.2.3
